@@ -1,0 +1,16 @@
+# ============================================================================
+# Course: CS204 - Object-Oriented Systems & Network Programming (B.Tech CSE)
+# Database File: users.txt
+#
+# Storage Format:
+# username:salt_hex:scrypt_hash_hex
+#
+# Security Hardening:
+# Passwords are cryptographically salted using CSPRNG bytes and derived via
+# modern scrypt key derivation (keyLen=64).
+# Defends against rainbow tables, brute-force, and GPU-accelerated hash attacks.
+# ============================================================================
+student:93086213b5e616bc50c5993668a54cc1:e7684a48f8916e2b41d3a08690af82d0e190de0cc5c829721c2d642ea5f51da11eb5ee1724a6fde21767eeb2f45d919178cf9ba33b1362d22cf2817034380251
+professor:65bcb4f8bff8b6bc50ac1b0c7653efe3:91f06bebdb833b61bed7eabad355f62b256be9de6b98414cccbc81196b8661d41a141be20fe4bdddebe95effbde2b6f1cf4dfabd06c84746768cabb8059d8b70
+alex:617cf8fbe5cb82487dba6c59ea3d02af:1907bd62b0c38cd83c0318b39ef91f8b95d69961a7ff91c94f67e346938cc477f09d004252e84849e4b92cb759bce34d6b378c5df0489f70e3922e8b29a8bf43
+device_player1:1f997bcede340f5980880eeb7bfbe6fb:c9f349788eed9056c4460d88da3e7b627586f9ab9d029e3a25e2e6313b749d2688a981c36962817aa0b7db1d7e3f3ca518b23810d3c3e786566749a2af361232

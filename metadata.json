@@ -1,0 +1,6 @@
+{
+  "name": "C++ Online Multiplayer Tic-Tac-Toe (OOP Systems Suite)",
+  "description": "An academic B.Tech C++ systems engineering multiplayer Tic-Tac-Toe platform with Crow C++ WebSocket backend, deterministic salted DJB2 authentication, and interactive 4-Pillars OOP inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
